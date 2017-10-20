@@ -2,6 +2,13 @@
 -------------------------------------------------- */
 
 
+/* Add new color */
+
+.bg-abu {
+  background-color: #ecf0f1;
+}
+
+
 /* Padding below the footer and lighter body text */
 
 body {
@@ -71,7 +78,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0;
+  margin: 2rem 0;
   /* Space out the Bootstrap <hr> more */
 }
 
