@@ -4,11 +4,21 @@
 
 /* Add new color */
 
-.bg-abu {
-  background-color: #ecf0f1;
+.bg-dark, .navbar-dark {
+  background-color: #96281B !important;
 }
 
+.btn-secondary {
+  background-color: #E26A6A;
+}
 
+body, .card, .dropdown-menu {
+  background-color: #FDE3A7;
+}
+
+.btn-primary, .dropdown-item.active {
+  background-color: #D64541;
+}
 /* Padding below the footer and lighter body text */
 
 body {
